@@ -3,7 +3,12 @@
 This project contains Python examples for compiler construction topics.
 
 ## Files
-
+   Lexical Analyzer
+   First and Follow Sets
+   Left Recursion Removal
+   NFA to DFA Conversion
+   Parsing Table Construction
+  Regex to NFA Conversion
 - `06_predictive_parsing.py` - Predictive / LL(1) parsing and FIRST/FOLLOW computation
 - `07_shift_reduce.py` - Shift-reduce parser demonstration
 - `08_leading_trailing.py` - LEADING and TRAILING set computation
